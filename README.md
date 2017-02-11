@@ -4,6 +4,8 @@
 
 如果你想要看到最新的變更，請切換至 `dev` branch。
 
+[handbook](https://goo.gl/go6Eui)
+
 
 ## 網站目的(加個)
 
