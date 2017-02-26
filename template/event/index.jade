@@ -1,0 +1,10 @@
+extends ../layout/layout.jade
+
+block main_content
+  ul.event-list
+    each event in #{event_list}
+      li
+        a(href=event.link)
+          .header= event.title
+          .date= event.date
+          .introduction= event.introduction
